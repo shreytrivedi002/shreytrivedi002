@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### Contact with me 📝
 
 [<img align="left" alt="www.edufusion.in" height="30px" src="https://cdn-icons-png.flaticon.com/512/921/921490.png" />][website]
-[<img align="left" alt="shrey-trivedi | LinkedIn" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1674086400&v=beta&t=dM6ZtM5bHTj_XVuNiIiKfPXph7Z29R_dU_Gc8v-PwIk"/>][linkedin]
+[<img align="left" alt="shrey-trivedi | LinkedIn" height="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1674086400&v=beta&t=dM6ZtM5bHTj_XVuNiIiKfPXph7Z29R_dU_Gc8v-PwIk"/>][linkedin]
 <!-- [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify] -->
 
 <br />
