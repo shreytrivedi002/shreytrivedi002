@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreytrivedi002&theme=dark&border_radius=8.2)](https://git.io/streak-stats)
-
 
 
 <h1 align="center" style="display:none;"></h1>
@@ -83,11 +81,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreytrivedi002&theme=dark&border_radius=8.2)](https://git.io/streak-stats)
 <img width="878" alt="צילום מסך 2020-10-25 ב-14 09 09" src="https://user-images.githubusercontent.com/38000606/97106909-02710480-16cd-11eb-9ad6-f5d64e03eb5a.png">
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1RCSfB7ArqrkCeIv0vraGW?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1RCSfB7ArqrkCeIv0vraGW?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
 
 [website]: https://edufusion.in
