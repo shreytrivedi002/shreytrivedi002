@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### Always remember these words:
     OnePiece is Real!!!!
-                -Edward Newgate
+                       -Edward Newgate
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### Spotify Playing 🎧
@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 ### Contact with me 📝
 
-[<img align="left" alt="www.edufusion.in" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="shrey-trivedi | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="www.edufusion.in" height="30px" src="https://cdn-icons-png.flaticon.com/512/44/44386.png?w=740&t=st=1666092060~exp=1666092660~hmac=dfd4d29dfba9060e9e99291ea30c1a64a1834bbfd4f919264e5068c8360997c9" />][website]
+[<img align="left" alt="shrey-trivedi | LinkedIn" height="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png"/>][linkedin]
 <!-- [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify] -->
 
 <br />
