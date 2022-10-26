@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 
 
-### Always remember these words:
+### Someone great once said:
     OnePiece is Real!!!!
                        -Edward Newgate
 
